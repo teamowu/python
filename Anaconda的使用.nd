@@ -1,0 +1,7 @@
+# Anaconda的基本使用
+- Anaconda主要是一个虚拟环境管理器
+- 同时还是一个安装包管理器
+- conda list: 显示anaconda安装的所有包
+- conda env list:显示anaconda的虚拟环境列表
+- 输入以下命令可以创建虚拟环境(可多个)：`conda create -n xxx python=3.x`
+
